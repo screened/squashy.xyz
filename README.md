@@ -1,1 +1,3 @@
-# screened.github.io
+This is my personal website 
+
+(mainly using this to learn html / css)
