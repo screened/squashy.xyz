@@ -1,3 +1,1 @@
-This is my personal website 
-
-(mainly using this to learn html / css)
+redirects to my discord server 🔥
