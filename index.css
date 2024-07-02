@@ -1,0 +1,51 @@
+body {
+    background: rgb(36, 36, 40);
+    font-family: "Poppins", Arial;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+  }
+.squashy-container {
+    display: flex;
+    justify-content: center;
+}
+#squashy {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(233, 233, 233);
+    margin-top: 40px;
+    background-color: #2a2c31;
+    width: 350px;
+    height: 55px;
+    border-radius: 10px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;    
+    gap: 400px;
+    margin-top: 150px;
+}
+.button {
+    cursor: pointer;
+    background-color: #2a2c31;
+    border-radius: 10px;
+    font-size: medium;
+    width: 300px;
+    text-align: center;
+}
+.button h1 {
+    color: rgb(190, 0, 0);
+}
+footer {
+    background-color: #2a2c31;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: 40px;
+}
+.footer-content p {
+    color: rgb(117, 117, 117);
+    font-size: small;
+    margin-left: 20px;
+}
